@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <mete charset="utf-8">
 <html>
 <head>
 <title> Emre's Github Page</title>
 <link rel="stylesheet" type="text/css" href="./all.css">
-<!--
+-->
  <style type = "text/css ">
 h1 {
 color: red;
@@ -19,12 +19,12 @@ background-color: lightgrey;
 font-weight: bold;
 }
 </style> 
--->
+<--
 </head>
 <body>
 <strong> Introduction to Information Systems </strong>
 <p> 
-<em> Emre Äamlçca 
+<em> Emre ‚Ç¨aml¬çca 
 <br> 
 150210071 </em> 
 </p>
@@ -86,5 +86,8 @@ These primates include humans,
         monkeys.
 </pre>
 </body>
-</html>
+</html> -->
+ul{
+ list-style-type: square;
+}
 
