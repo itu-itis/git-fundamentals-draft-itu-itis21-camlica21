@@ -8,6 +8,11 @@ em{
 color: green;
 font-style: normal;
 background-color: lightgrey;
+<<<<<<< HEAD
 font-weight: bold;}
+=======
+font-weight: bold;
+}
+>>>>>>> aaca7bfdcae834ac6a855d2560d1aa08fc96ea02
 ul {list-style-stype:square;}
 
